@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <defs>
+        <path d="M55,110 C47.3917,110 40.2417,108.555 33.55,105.666 C26.8583,102.78 21.0375,98.863 16.0875,93.913 C11.1375,88.963 7.2197,83.142 4.334,76.45 C1.4447,69.758 0,62.608 0,55 C0,47.3917 1.4447,40.2417 4.334,33.55 C7.2197,26.8583 11.1375,21.0375 16.0875,16.0875 C21.0375,11.1375 26.8583,7.2178 33.55,4.3285 C40.2417,1.4428 47.3917,0 55,0 C62.608,0 69.758,1.4428 76.45,4.3285 C83.142,7.2178 88.963,11.1375 93.913,16.0875 C98.863,21.0375 102.78,26.8583 105.666,33.55 C108.555,40.2417 110,47.3917 110,55 C110,62.608 108.555,69.758 105.666,76.45 C102.78,83.142 98.863,88.963 93.913,93.913 C88.963,98.863 83.142,102.78 76.45,105.666 C69.758,108.555 62.608,110 55,110 Z" id="path-1"></path>
+        <filter x="-50.9%" y="-36.4%" width="201.8%" height="201.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="16" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="18" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.807843137   0 0 0 0 0.239215686   0 0 0 0 0.952941176  0 0 0 0.56 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Moderation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(32.000000, 16.000000)" fill-rule="nonzero">
+            <g id="Path">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#1B1F26" xlink:href="#path-1"></use>
+            </g>
+            <path d="M42.75,77.05 L77.05,55 L42.75,32.95 L42.75,77.05 Z M55,104 C48.2217,104 41.8517,102.713 35.89,100.139 C29.9283,97.568 24.7425,94.078 20.3325,89.668 C15.9225,85.258 12.4321,80.072 9.8612,74.11 C7.2871,68.148 6,61.778 6,55 C6,48.2217 7.2871,41.8517 9.8612,35.89 C12.4321,29.9283 15.9225,24.7425 20.3325,20.3325 C24.7425,15.9225 29.9283,12.4304 35.89,9.8563 C41.8517,7.2854 48.2217,6 55,6 C61.778,6 68.148,7.2854 74.11,9.8563 C80.072,12.4304 85.258,15.9225 89.668,20.3325 C94.078,24.7425 97.568,29.9283 100.139,35.89 C102.713,41.8517 104,48.2217 104,55 C104,61.778 102.713,68.148 100.139,74.11 C97.568,80.072 94.078,85.258 89.668,89.668 C85.258,94.078 80.072,97.568 74.11,100.139 C68.148,102.713 61.778,104 55,104 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

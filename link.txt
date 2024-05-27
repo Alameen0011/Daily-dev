@@ -1,0 +1,9 @@
+daily logo: <img src="https://assets-global.website-files.com/5e0a5d9d743608d0f3ea6753/5f1d8b1b9c7814aae6b69044_Daily%20Full%20logo.svg" width="152" alt="Daily Logo" class="logo-link">
+152 * 40
+
+chrome img:<img src="https://assets-global.website-files.com/5e0a5d9d743608d0f3ea6753/5eb07f5ca3602a29506297b8_Firefox.svg" alt="Firefox Browser Addons" loading="lazy" class="image middle">
+
+<img src="https://assets-global.website-files.com/5e0a5d9d743608d0f3ea6753/5f7338a6af28f577fb56f87e_Edge.svg" alt="Edge Browser Addons" loading="lazy" class="image">
+
+<img src="https://assets-global.website-files.com/5e0a5d9d743608d0f3ea6753/5eb07f5c89c6a0ebd1e429eb_Chrome.svg" alt="Chrome Web Store" loading="lazy" class="image last">
+
